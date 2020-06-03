@@ -1,0 +1,2 @@
+{"Nombre":"ingrit","Edad":"22","Sexo":"femenino"}
+{"Nombre":"daniel","Edad":"23","Sexo":"masculino"}
